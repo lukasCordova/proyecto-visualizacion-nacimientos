@@ -3,6 +3,7 @@
 ## Integrantes
 - Lukas Córdova
 - Cristopher Ramírez
+- Felipe Molina
 
 ## Descripción del Problema y Motivación
 La postergación de la maternidad y las brechas socioeducativas en Chile plantean nuevos desafíos en la salud materno-infantil. Este proyecto analiza cómo influyen las condiciones sociodemográficas en los desenlaces perinatales adversos (bajo peso al nacer y nacimiento prematuro). Este análisis puede entregar conclusiones que construyan una mejor salud pública en el país, pues correlaciona la desigualdad económica del país con la calidad de vida de quienes nacen aquí.
